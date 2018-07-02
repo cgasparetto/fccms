@@ -1,0 +1,22 @@
+{
+	"author": "Carlos Gasparetto",
+	"name": "fcc-learn-npm-package-json",
+  "description": "Projeto teste",
+  "keywords":["teste","freecodecamp"],
+  "license":"MIT",
+  "version":"0.1",
+	"dependencies": {
+		"express": "4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	}, 
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cgasparetto/fccms"
+	}
+}
